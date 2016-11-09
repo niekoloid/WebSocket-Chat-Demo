@@ -4,9 +4,9 @@ This is a demo chat app using WebSocket API.
 
 Requirement
 -----------
-![Node.js](https://nodejs.org/en/download/current/)
+[Node.js](https://nodejs.org/en/download/current/)
 
-![WebSocket API](https://davidwalsh.name/websocket)
+[WebSocket API](https://davidwalsh.name/websocket)
 
 Run WebSocket Server (localhost:8888)
 ---------------
